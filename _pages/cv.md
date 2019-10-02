@@ -26,15 +26,15 @@ Disseration: Forecasting plant phenology: an assessment of data sources and esti
 
 [Google Scholar](https://scholar.google.com/citations?user=SvjLzQMAAAAJ&hl=en)
 
-Taylor S.D. 2019. Estimating flowering transition dates from status-based phenological observations: a test of methods. PeerJ 7:e7720 [https://doi.org/10.7717/peerj.7720](https://doi.org/10.7717/peerj.7720)
-[Code](https://github.com/sdtaylor/phenology_estimators),
+Taylor S.D. 2019. Estimating flowering transition dates from status-based phenological observations: a test of methods. PeerJ 7:e7720 [https://doi.org/10.7717/peerj.7720](https://doi.org/10.7717/peerj.7720) 
+[[Code](https://github.com/sdtaylor/phenology_estimators),
 [Code Archive](https://zenodo.org/record/3234913),
 [Preprint](https://doi.org/10.7287/peerj.preprints.27629v1)]
 
-Taylor, S.D., J.M. Meiners, K. Riemer, M.C. Orr, E.P White. 2019. Comparison of large-scale citizen science data and long-term study data for phenology modeling. Ecology [https://doi.org/10.1002/ecy.2568](https://doi.org/10.1002/ecy.2568).[[Preprint]( https://doi.org/10.1101/335802),[Code](https://github.com/sdtaylor/phenology_dataset_study)]
+Taylor, S.D., J.M. Meiners, K. Riemer, M.C. Orr, E.P White. 2019. Comparison of large-scale citizen science data and long-term study data for phenology modeling. Ecology [https://doi.org/10.1002/ecy.2568](https://doi.org/10.1002/ecy.2568). [[Preprint]( https://doi.org/10.1101/335802),[Code](https://github.com/sdtaylor/phenology_dataset_study)]
 
-Harris, D.J., S.D. Taylor, E.P. White. 2018. Forecasting biodiversity in breeding birds using best practices. PeerJ, 6:e4278 [https://doi.org/10.7717/peerj.4278](https://doi.org/10.7717/peerj.4278) [
-[Code](https://github.com/weecology/bbs-forecasting/),
+Harris, D.J., S.D. Taylor, E.P. White. 2018. Forecasting biodiversity in breeding birds using best practices. PeerJ, 6:e4278 [https://doi.org/10.7717/peerj.4278](https://doi.org/10.7717/peerj.4278) 
+[[Code](https://github.com/weecology/bbs-forecasting/),
 [Code Archive](https://doi.org/10.5281/zenodo.888988),
 [Preprint](https://doi.org/10.1101/191130)]
 
