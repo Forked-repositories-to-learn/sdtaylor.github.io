@@ -26,7 +26,12 @@ Disseration: Forecasting plant phenology: an assessment of data sources and esti
 
 [Google Scholar](https://scholar.google.com/citations?user=SvjLzQMAAAAJ&hl=en)
 
-Taylor, S.D. and White, E.P., 2019. Automated data-intensive forecasting of plant phenology throughout the United States. Ecological Applications. [https://doi.org/10.1002/eap.2025](https://doi.org/10.1002/eap.2025)
+Taylor, S.D., Marconi, S. 2020. Rethinking global carbon storage potential of trees. A comment on Bastin et al. (2019). Annals of Forest Science 77, 23. [https://doi.org/10.1007/s13595-020-0922-z](https://doi.org/10.1007/s13595-020-0922-z)
+[[Code](https://github.com/sdtaylor/bastin2019_reply),
+[Data & Code Archive](https://doi.org/10.5281/zenodo.3364028),
+[Preprint](https://doi.org/10.1101/730325)]
+
+Taylor, S.D., White, E.P., 2019. Automated data-intensive forecasting of plant phenology throughout the United States. Ecological Applications. [https://doi.org/10.1002/eap.2025](https://doi.org/10.1002/eap.2025)
 [[Code](https://github.com/sdtaylor/phenology_forecasts),
 [Code Archive](https://doi.org/10.5281/zenodo.2577452),
 [Preprint](https://doi.org/10.1101/634568)]
@@ -52,9 +57,6 @@ White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe, J.L. Simon
 
 Taylor, SD and Guralnick, RP, 2019. Opportunistically collected photographs can be used to estimate large-scale phenological trends. bioRxiv, 794396. [https://doi.org/10.1101/794396](https://doi.org/10.1101/794396)
 [[Data & Code Archive](https://doi.org/10.5281/zenodo.3473015)]  
-
-Taylor, SD, & Marconi, S 2019. Rethinking global carbon storage potential of trees. A comment on Bastin et. al 2019. bioRxiv, 730325. [https://doi.org/10.1101/730325](https://doi.org/10.1101/730325)
-[Data & Code Archive](https://doi.org/10.5281/zenodo.3364028)[*In press at Annals of Forest Science*]
 
 Taylor, SD. 2018. “NEON NIST Data Science Evaluation Challenge: Methods and Results of Team Shawn.” PeerJ Preprints 6: e26967v1. [https://doi.org/10.7287/peerj.preprints.26967](https://doi.org/10.7287/peerj.preprints.26967).
 
@@ -83,7 +85,7 @@ Taylor, S.D. and Newingham, B.A. 2012. Influences of soil and spatial properties
 Ecological Forecasting: Concepts, Recommendations, and Examples. LTER Metacommunities Working Group. Boulder, CO. Nov. 5, 2018. Organizer: Eric R. Sokol  
 
 ## Workshops Tought
-7 Week Data carpentry workshop Jan. 1 - March 8 [Blog Post](https://datacarpentry.org/blog/2018/04/dc-seven-weeks)  
+7 Week Data carpentry workshop Jan. 1 - March 8, 2018 [Blog Post](https://datacarpentry.org/blog/2018/04/dc-seven-weeks)  
 Data Carpentry, Utah State University, September 29-30, 2017  
 Software Carpentry, University of Florida, May 25-26, 2017  
 Data Carpentry, University of Florida, October 17-18, 2016  
@@ -92,6 +94,9 @@ Software Carpentry, University of Florida, August 17-18, 2016
 ## Work Experience
 **Postdoctorial Researcher** | USDA-ARS Jornada Experimental Range | Dr. Dawn Browning | Las Cruces, NM  
 Dec. 2019 - Present  
+
+**Research Associate** | University of Florida | Dr. Ethan White | Gainesville, FL  
+Aug. 2015 - Dec. 2019
 
 **Lab Manager** | Agricultural Research Station | Dr. Beth Newingham | Reno, NV  
 May - August 2015    
